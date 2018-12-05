@@ -1,3 +1,7 @@
+/*Christopher Miller
+ *11/24/2018
+ */
+
 #include <stdio.h>
 #include <string.h>
 #include "class.h"

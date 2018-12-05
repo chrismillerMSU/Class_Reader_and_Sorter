@@ -1,7 +1,6 @@
 /*
  * Christopher Miller
- * Connor Morrison
- * Program2
+ * Connor Morrison (help with method get_menu)
  * 11/25/18
  *
  * */

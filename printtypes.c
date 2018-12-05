@@ -1,4 +1,4 @@
-/* Created by: Christopher Miller, Connor Morrison
+/* Created by: Christopher Miller
  * 11/25/18
  * This file prints to a output.txt file
  */

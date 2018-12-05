@@ -1,6 +1,5 @@
 /*
  * Christopher Miller
- * Connor Morrison
  * Program2
  * 11/28/18
  * */
